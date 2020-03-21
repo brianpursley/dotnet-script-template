@@ -1,0 +1,11 @@
+[
+  {
+    "template": "dotnet-script",
+    "platform": "x86_64",
+    "language": "C# Script",
+    "source": "brianpursley",
+    "description": "Dotnet script (C# script) template ",
+    "repo": "https://github.com/brianpursley/dotnet-script-template",
+    "official": "false"
+  }
+]
